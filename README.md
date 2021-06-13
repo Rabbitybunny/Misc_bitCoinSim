@@ -1,1 +1,1 @@
-# Misc_bitCoinSim
+Bit Coin Simulation

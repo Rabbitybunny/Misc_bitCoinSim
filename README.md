@@ -2,7 +2,8 @@
 
 This bit coin simulation showcases how blockchain, mining, and memory pool requirements prevent serveral different malicious attempts that tries to modify the transaction record. The simulation does not include encrytion nor smart contract, just the basic blockchain concept.
 
-https://github.com/SphericalCowww/zMisc_bitCoinSim/blob/main/demo.mov
+https://user-images.githubusercontent.com/55116073/183714345-f96b9a20-d949-4714-94ea-3deff3992568.mp4
+
 
 The code runs on python3 with additional packages:
 

@@ -1,4 +1,3 @@
-#/opt/local/bin/python3
 import sys, math, re, time, os
 import numpy as np
 import numpy.random as rand

@@ -12,4 +12,4 @@ The code runs on python3 with additional packages:
 There are only 5 users (A, B, C, D, and E) in this simulation, and the control is for user E. The wallet is the currency each user has according to the globally shared blockchain. Blue arrows indicate the transaction, while the green arrows indicate sharing the blockchain. Their rate can be modified in the code. The red number indicate the local blockchains that have been affected by user E's malicious attempts.
 
 References:
-- learnmeabitcoin's Youtube Channel (2017) (<a href="https://www.youtube.com/c/learnmeabitcoin/videos">Youtube</a>)
+- learnmeabitcoin's Youtube channel (2017) (<a href="https://www.youtube.com/c/learnmeabitcoin/videos">Youtube</a>)
